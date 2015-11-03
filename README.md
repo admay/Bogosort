@@ -1,36 +1,18 @@
-# bogo
+# Bogo
 
-FIXME: description
+## So silly...
 
-## Installation
+A bogo sort, also called a Monkey sort or Stupid sort, is basically a game of random luck.
 
-Download from http://example.com/FIXME.
+Bogo sort is based on the idea that given enough tries, you can randomly shuffle a collection into order.
 
-## Usage
+## But why?
 
-FIXME: explanation
+Me and my co-workers decidede that we want to test the bogo sort so I wrote one really quick.
 
-    $ java -jar bogo-0.1.0-standalone.jar [args]
+## If you want to try
+*You will need leiningen *
 
-## Options
-
-FIXME: listing of options this app accepts.
-
-## Examples
-
-...
-
-### Bugs
-
-...
-
-### Any Other Sections
-### That You Think
-### Might be Useful
-
-## License
-
-Copyright © 2015 FIXME
-
-Distributed under the Eclipse Public License either version 1.0 or (at
-your option) any later version.
+1. Clone the repo
+2. In the terminal, cd into the main directory
+3. $ lein run
