@@ -1,6 +1,6 @@
 # Bogo
 
-## So silly...
+## Stupid Sort
 
 A bogo sort, also called a Monkey sort or Stupid sort, is basically a game of random luck.
 
